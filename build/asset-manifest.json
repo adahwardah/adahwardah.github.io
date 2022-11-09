@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.14435728.js",
+    "static/media/audiowar2.mp4": "/static/media/audiowar2.e360ad004924f3e9ff0c.mp4",
+    "static/media/audiowar3.mp4": "/static/media/audiowar3.db20bf7302464d5eccdf.mp4",
+    "static/media/audiowar1.mp4": "/static/media/audiowar1.eff35a08a4b34f57114a.mp4",
+    "index.html": "/index.html",
+    "main.14435728.js.map": "/static/js/main.14435728.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.14435728.js"
+  ]
+}
